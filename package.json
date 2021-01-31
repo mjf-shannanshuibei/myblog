@@ -1,0 +1,14 @@
+{
+  "name": "vue-press-blog",
+  "version": "1.0.0",
+  "author": "山南水北",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.7.1",
+    "vuepress-theme-reco": "1.6.1"
+  },
+  "description": "这是我的使用VuePress框架搭建的静态博客"
+}
