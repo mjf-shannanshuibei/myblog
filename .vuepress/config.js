@@ -28,9 +28,13 @@ module.exports = {
       }
     },
     // 评论功能 valine配置，详情看vuepress-theme-reco官网评论功能配置
+    // valineConfig: {
+    //   appId: 'your appId',// your appId
+    //   appKey: 'your appKey', // your appKey
+    // },
     valineConfig: {
-      appId: 'your appId',// your appId
-      appKey: 'your appKey', // your appKey
+      appId: 'bRvjLHpEMJlinzfnqpg8kEkS-gzGzoHsz',// your appId
+      appKey: 'kfr8lg7VrVvzJayWPxowTG1k', // your appKey
     },
 
     nav: [
@@ -93,6 +97,7 @@ module.exports = {
         title: '午后南杂',
         desc: 'Enjoy when you can, and endure when you must.',
         email: '1156743527@qq.com',
+        logo: '/friendLink/firendLink-reco.png',
         link: 'https://www.recoluan.com'
       },
       {
@@ -108,7 +113,7 @@ module.exports = {
         link: 'https://vuepress-theme-reco.recoluan.com'
       },
     ],
-    logo: '/logo.png',
+    logo: '/logo.jpg',
     // 搜索设置
     search: true,
     searchMaxSuggestions: 10,

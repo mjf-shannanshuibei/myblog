@@ -1,20 +1,16 @@
 ---
 home: true
-heroText: 山南水北
+heroText: 
 tagline: Enjoy the convenience of the Internet......
-# heroImage: /logo.png
-# heroImageStyle: {
-#   maxWidth: '600px',
-#   width: '100%',
-#   display: block,
-#   margin: '9rem auto 2rem',
-#   background: '#fff',
-#   borderRadius: '1rem',
-# }
-bgImageStyle: {
-  height: '450px'
+heroImage: /logo.png
+heroImageStyle: {
+  maxWidth: '300px',
+  width: '100%',
+  display: block,
+  margin: '0 auto 2rem',
+  borderRadius: '1rem',
 }
-isShowTitleInHome: false
+isShowTitleInHome: true
 actionText: Guide
 actionLink: /views/other/guide
 features:

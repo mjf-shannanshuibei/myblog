@@ -7,7 +7,6 @@ categories:
  - 笔记
 author: 山南水北
 ---
-
 # 一、SpringDataJPA的简介
 
 ## 1.1Spring Data JPA 概述
@@ -18,7 +17,7 @@ author: 山南水北
 
 ## 1.2 Spring Data JPA 特性
 
-![image-20200719205532284](C:\Users\shannanshuibei\AppData\Roaming\Typora\typora-user-images\image-20200719205532284.png)
+![image-20200719205532284](https://ivans-bucket.oss-cn-beijing.aliyuncs.com/typora/image-20200719205532284.png)
 
 ​		SpringData Jpa 极大简化了数据库访问层代码。 如何简化的呢？ 使用了SpringDataJpa，我们的dao层中只需要写接口，就自动具有了增删改查、分页查询等方法。
 
@@ -603,6 +602,7 @@ public class JpqlTest {
   * findBy开头：代表查询
 
      		对象中属性的名称（首字母大写）
+    
     * 含义根据属性名称进行查询
 
 ```java
@@ -659,4 +659,3 @@ public class JpqlTest {
         }
     }
 ```
-
