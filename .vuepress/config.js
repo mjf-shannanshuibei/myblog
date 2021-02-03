@@ -32,10 +32,6 @@ module.exports = {
     //   appId: 'your appId',// your appId
     //   appKey: 'your appKey', // your appKey
     // },
-    valineConfig: {
-      appId: 'bRvjLHpEMJlinzfnqpg8kEkS-gzGzoHsz',// your appId
-      appKey: 'kfr8lg7VrVvzJayWPxowTG1k', // your appKey
-    },
 
     nav: [
       { text: '首页', link: '/', icon: 'reco-home' },
